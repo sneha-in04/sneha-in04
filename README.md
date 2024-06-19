@@ -3,7 +3,7 @@ i am a sophomore currently purusing BTECH in electronics and computer science,cu
 
 - 🔭 I’m currently machine learning,and python frameworks.
 - 👯 I’m looking to collaborate on exciting projects
-- 📫 How to reach me: twitter:sayoutsneha mail:guptasneha1393@gmail.com
+- 📫 How to reach me:  mail:guptasneha1393@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-gupta-30480922a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sayoutsneha) 
